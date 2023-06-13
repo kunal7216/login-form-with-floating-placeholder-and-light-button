@@ -1,6 +1,6 @@
 The MIT License (MIT)
 
-Copyright (c) 2023 Soufiane Khalfaoui HaSsani (https://codepen.io/soufiane-khalfaoui-hassani/pen/LYpPWda)
+Copyright (c) 2023 Kunal Kumar (https://codepen.io/kunal7216/pen/VwVvQWy)
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
